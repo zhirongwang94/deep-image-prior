@@ -2,6 +2,8 @@
 
 # Deep image prior
 
+All credit belongs to Dmitry Ulyanov, i just downloaded it to study and record my study. 
+
 In this repository we provide *Jupyter Notebooks* to reproduce each figure from the paper:
 
 > **Deep Image Prior**
